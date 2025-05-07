@@ -5,7 +5,7 @@ Goals
 3 - Clean the data
 4 - Develop visuals for exploratory analysis of the data
 5 - Create a numerical model
-7 - Apply model validation techniques
+6 - Apply model validation techniques
 7 - Develop explanatory visuals
 8 - Discuss relevant insights
 
